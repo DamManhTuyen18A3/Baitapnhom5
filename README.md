@@ -1,1 +1,1 @@
-# B-i-t-p-nh-m
+# Case study Numpy
